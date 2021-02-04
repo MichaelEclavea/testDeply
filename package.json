@@ -15,14 +15,5 @@
     "express": "^4.17.1",
     "inquirer": "^7.3.3",
     "socket.io": "^3.0.1"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MichaelEclavea/testDeply.git"
-  },
-  "bugs": {
-    "url": "https://github.com/MichaelEclavea/testDeply/issues"
-  },
-  "homepage": "https://github.com/MichaelEclavea/testDeply#readme"
+  }
 }
